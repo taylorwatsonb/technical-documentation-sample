@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # Taylor Watson - Technical Writing Portfolio
 =======
 
 # TechDocs Pro - Sample Documentation
->>>>>>> 7d9d3a8ab39209ee12919b7b80106257ed214525
+
 
 This is my technical writing portfolio built with [Docusaurus](https://docusaurus.io/) to showcase professional documentation skills, modern development practices, and comprehensive technical writing capabilities.
 
