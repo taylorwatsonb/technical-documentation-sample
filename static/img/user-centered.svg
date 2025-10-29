@@ -1,0 +1,11 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="60" fill="#f59e0b" opacity="0.1"/>
+  <circle cx="100" cy="100" r="40" fill="#f59e0b" opacity="0.2"/>
+  <circle cx="100" cy="100" r="20" fill="#f59e0b" opacity="0.3"/>
+  <circle cx="100" cy="100" r="8" fill="#f59e0b"/>
+  <path d="M100 20 L110 40 L130 40 L115 55 L120 75 L100 65 L80 75 L85 55 L70 40 L90 40 Z" fill="#f59e0b" opacity="0.6"/>
+  <path d="M20 100 L40 90 L40 70 L55 85 L75 80 L65 100 L75 120 L55 115 L40 130 L40 110 Z" fill="#f59e0b" opacity="0.6"/>
+  <path d="M100 180 L90 160 L70 160 L85 145 L80 125 L100 135 L120 125 L115 145 L130 160 L110 160 Z" fill="#f59e0b" opacity="0.6"/>
+  <path d="M180 100 L160 110 L160 130 L145 115 L125 120 L135 100 L125 80 L145 85 L160 70 L160 90 Z" fill="#f59e0b" opacity="0.6"/>
+  <text x="100" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#6b7280">User Focus</text>
+</svg>

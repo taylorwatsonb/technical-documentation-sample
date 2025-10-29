@@ -6,7 +6,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: '🧠 Visual Problem Solver',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/visual-problem-solver.svg').default,
     description: (
       <>
         I don't just write documentation—I create interactive experiences that make complex concepts accessible through ReactFlow visualizations, custom mind maps, and interactive examples that users can actually use.
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: '🚀 Modern Technical Stack',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/technical-stack.svg').default,
     description: (
       <>
         Built with cutting-edge tools that demonstrate real-world skills: Docusaurus + React + TypeScript, Git workflows and CI/CD integration, responsive design and accessibility best practices.
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: '📊 User-Centered Approach',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/user-centered.svg').default,
     description: (
       <>
         Every piece of content is designed around actual user needs: Research-driven content strategy, progressive disclosure for different skill levels, multiple content formats for diverse audiences.
