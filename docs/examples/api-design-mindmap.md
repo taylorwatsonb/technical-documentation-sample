@@ -10,54 +10,131 @@ API design is both an art and a science, requiring deep understanding of user ne
 
 ### Core Design Principles
 
-```mermaid
-mindmap
-  root((API Design<br/>Principles))
-    User Experience
-      Developer Onboarding
-        Clear Documentation
-        Interactive Examples
-        Quick Start Guides
-      Intuitive Design
-        Consistent Naming
-        Logical Structure
-        Predictable Patterns
-      Error Handling
-        Meaningful Messages
-        Proper HTTP Status Codes
-        Actionable Guidance
-    Performance
-      Response Optimization
-        Pagination
-        Field Selection
-        Caching Strategies
-      Request Efficiency
-        Batch Operations
-        Compression
-        Connection Pooling
-    Security
-      Authentication
-        OAuth 2.0
-        JWT Tokens
-        API Keys
-      Authorization
-        Role-Based Access
-        Resource Permissions
-        Scope Management
-      Data Protection
-        Encryption
-        Input Validation
-        Rate Limiting
-    Scalability
-      Architecture
-        Microservices
-        Load Balancing
-        Horizontal Scaling
-      Monitoring
-        Metrics Collection
-        Health Checks
-        Alerting Systems
-```
+<div className="api-mindmap-container">
+  <div className="mindmap-center">
+    <div className="center-node">
+      <div className="node-icon">🚀</div>
+      <div className="node-title">API Design Principles</div>
+      <div className="node-subtitle">Modern, Scalable, User-Focused</div>
+    </div>
+  </div>
+  
+  <div className="mindmap-branches">
+    <div className="branch branch-1">
+      <div className="branch-title">User Experience</div>
+      <div className="branch-items">
+        <div className="branch-item">
+          <span className="item-icon">👥</span>
+          <span className="item-text">Developer Onboarding</span>
+          <div className="sub-items">
+            <div className="sub-item">Clear Documentation</div>
+            <div className="sub-item">Interactive Examples</div>
+            <div className="sub-item">Quick Start Guides</div>
+          </div>
+        </div>
+        <div className="branch-item">
+          <span className="item-icon">🎯</span>
+          <span className="item-text">Intuitive Design</span>
+          <div className="sub-items">
+            <div className="sub-item">Consistent Naming</div>
+            <div className="sub-item">Logical Structure</div>
+            <div className="sub-item">Predictable Patterns</div>
+          </div>
+        </div>
+        <div className="branch-item">
+          <span className="item-icon">⚠️</span>
+          <span className="item-text">Error Handling</span>
+          <div className="sub-items">
+            <div className="sub-item">Meaningful Messages</div>
+            <div className="sub-item">Proper HTTP Status Codes</div>
+            <div className="sub-item">Actionable Guidance</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div className="branch branch-2">
+      <div className="branch-title">Performance</div>
+      <div className="branch-items">
+        <div className="branch-item">
+          <span className="item-icon">⚡</span>
+          <span className="item-text">Response Optimization</span>
+          <div className="sub-items">
+            <div className="sub-item">Pagination</div>
+            <div className="sub-item">Field Selection</div>
+            <div className="sub-item">Caching Strategies</div>
+          </div>
+        </div>
+        <div className="branch-item">
+          <span className="item-icon">🔄</span>
+          <span className="item-text">Request Efficiency</span>
+          <div className="sub-items">
+            <div className="sub-item">Batch Operations</div>
+            <div className="sub-item">Compression</div>
+            <div className="sub-item">Connection Pooling</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div className="branch branch-3">
+      <div className="branch-title">Security</div>
+      <div className="branch-items">
+        <div className="branch-item">
+          <span className="item-icon">🔐</span>
+          <span className="item-text">Authentication</span>
+          <div className="sub-items">
+            <div className="sub-item">OAuth 2.0</div>
+            <div className="sub-item">JWT Tokens</div>
+            <div className="sub-item">API Keys</div>
+          </div>
+        </div>
+        <div className="branch-item">
+          <span className="item-icon">🛡️</span>
+          <span className="item-text">Authorization</span>
+          <div className="sub-items">
+            <div className="sub-item">Role-Based Access</div>
+            <div className="sub-item">Resource Permissions</div>
+            <div className="sub-item">Scope Management</div>
+          </div>
+        </div>
+        <div className="branch-item">
+          <span className="item-icon">🔒</span>
+          <span className="item-text">Data Protection</span>
+          <div className="sub-items">
+            <div className="sub-item">Encryption</div>
+            <div className="sub-item">Input Validation</div>
+            <div className="sub-item">Rate Limiting</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div className="branch branch-4">
+      <div className="branch-title">Scalability</div>
+      <div className="branch-items">
+        <div className="branch-item">
+          <span className="item-icon">🏗️</span>
+          <span className="item-text">Architecture</span>
+          <div className="sub-items">
+            <div className="sub-item">Microservices</div>
+            <div className="sub-item">Load Balancing</div>
+            <div className="sub-item">Horizontal Scaling</div>
+          </div>
+        </div>
+        <div className="branch-item">
+          <span className="item-icon">📊</span>
+          <span className="item-text">Monitoring</span>
+          <div className="sub-items">
+            <div className="sub-item">Metrics Collection</div>
+            <div className="sub-item">Health Checks</div>
+            <div className="sub-item">Alerting Systems</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## 🔄 REST vs GraphQL Comparison
 

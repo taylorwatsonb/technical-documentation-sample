@@ -10,42 +10,89 @@ Technical writing is a systematic process that combines user research, content s
 
 ### The Complete Writing Workflow
 
-```mermaid
-mindmap
-  root((Technical Writing<br/>Process))
-    Research & Discovery
-      User Research
-        Stakeholder Interviews
-        User Personas
-        Journey Mapping
-        Pain Point Analysis
-      Technical Analysis
-        System Architecture
-        API Documentation
-        Code Review
-        Integration Points
-      Content Audit
-        Existing Documentation
-        Knowledge Gaps
-        Outdated Content
-        User Feedback
-    Planning & Strategy
-      Content Strategy
-        Information Architecture
-        Content Types
-        Delivery Channels
-        Success Metrics
-      Project Planning
-        Timeline Development
-        Resource Allocation
-        Milestone Definition
-        Risk Assessment
-      Tool Selection
-        Documentation Platform
-        Collaboration Tools
-        Version Control
-        Publishing Pipeline
-```
+<div className="api-mindmap-container">
+  <div className="mindmap-center">
+    <div className="center-node">
+      <div className="node-icon">📝</div>
+      <div className="node-title">Technical Writing Process</div>
+      <div className="node-subtitle">From Research to Delivery</div>
+    </div>
+  </div>
+  
+  <div className="mindmap-branches">
+    <div className="branch branch-1">
+      <div className="branch-title">Research & Discovery</div>
+      <div className="branch-items">
+        <div className="branch-item">
+          <span className="item-icon">👥</span>
+          <span className="item-text">User Research</span>
+          <div className="sub-items">
+            <div className="sub-item">Stakeholder Interviews</div>
+            <div className="sub-item">User Personas</div>
+            <div className="sub-item">Journey Mapping</div>
+            <div className="sub-item">Pain Point Analysis</div>
+          </div>
+        </div>
+        <div className="branch-item">
+          <span className="item-icon">🔧</span>
+          <span className="item-text">Technical Analysis</span>
+          <div className="sub-items">
+            <div className="sub-item">System Architecture</div>
+            <div className="sub-item">API Documentation</div>
+            <div className="sub-item">Code Review</div>
+            <div className="sub-item">Integration Points</div>
+          </div>
+        </div>
+        <div className="branch-item">
+          <span className="item-icon">📊</span>
+          <span className="item-text">Content Audit</span>
+          <div className="sub-items">
+            <div className="sub-item">Existing Documentation</div>
+            <div className="sub-item">Knowledge Gaps</div>
+            <div className="sub-item">Outdated Content</div>
+            <div className="sub-item">User Feedback</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div className="branch branch-2">
+      <div className="branch-title">Planning & Strategy</div>
+      <div className="branch-items">
+        <div className="branch-item">
+          <span className="item-icon">🎯</span>
+          <span className="item-text">Content Strategy</span>
+          <div className="sub-items">
+            <div className="sub-item">Information Architecture</div>
+            <div className="sub-item">Content Types</div>
+            <div className="sub-item">Delivery Channels</div>
+            <div className="sub-item">Success Metrics</div>
+          </div>
+        </div>
+        <div className="branch-item">
+          <span className="item-icon">📅</span>
+          <span className="item-text">Project Planning</span>
+          <div className="sub-items">
+            <div className="sub-item">Timeline Development</div>
+            <div className="sub-item">Resource Allocation</div>
+            <div className="sub-item">Milestone Definition</div>
+            <div className="sub-item">Risk Assessment</div>
+          </div>
+        </div>
+        <div className="branch-item">
+          <span className="item-icon">🛠️</span>
+          <span className="item-text">Tool Selection</span>
+          <div className="sub-items">
+            <div className="sub-item">Documentation Platform</div>
+            <div className="sub-item">Collaboration Tools</div>
+            <div className="sub-item">Version Control</div>
+            <div className="sub-item">Publishing Pipeline</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## 📝 Content Creation Workflow
 
