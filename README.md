@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TechDocs Pro - Sample Documentation
 
 This is a comprehensive sample documentation project built with [Docusaurus](https://docusaurus.io/) to demonstrate professional technical writing capabilities and modern documentation practices.
@@ -253,7 +253,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ for the technical writing community**
 
-*This project serves as a comprehensive example of modern technical documentation practices and can be used as a template for your own documentation projects.*
-=======
-# technical-documentation-sample
->>>>>>> 75d4eb373d6c198f6d0d9318f24abd224e959d76
