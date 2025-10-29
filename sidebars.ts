@@ -18,16 +18,18 @@ const sidebars: SidebarsConfig = {
     'portfolio-showcase',
     {
       type: 'category',
-      label: 'Getting Started',
+      label: '🎯 Writing Samples',
       items: [
-        'getting-started/installation',
-        'getting-started/quick-start',
-        'getting-started/configuration',
+        'examples/process-documentation',
+        'examples/technical-article',
+        'examples/api-design-mindmap',
+        'examples/technical-writing-mindmap',
+        'examples/interactive-mindmap',
       ],
     },
     {
       type: 'category',
-      label: 'API Reference',
+      label: '📚 API Documentation',
       items: [
         'api/overview',
         'api/authentication',
@@ -37,7 +39,7 @@ const sidebars: SidebarsConfig = {
     },
     {
       type: 'category',
-      label: 'Guides',
+      label: '📖 User Guides',
       items: [
         'guides/quick-start',
         'guides/advanced-features',
@@ -45,20 +47,6 @@ const sidebars: SidebarsConfig = {
         'guides/best-practices',
       ],
     },
-        {
-          type: 'category',
-          label: 'Writing Samples',
-          items: [
-            'examples/basic-usage',
-            'examples/advanced-integration',
-            'examples/real-world-scenarios',
-            'examples/process-documentation',
-            'examples/technical-article',
-            'examples/api-design-mindmap',
-            'examples/technical-writing-mindmap',
-            'examples/interactive-mindmap',
-          ],
-        },
     'changelog',
   ],
 };

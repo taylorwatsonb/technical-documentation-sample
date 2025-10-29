@@ -1,61 +1,45 @@
-# Technical Writing Portfolio
+# 👋 Hi, I'm Taylor Watson
 
-Welcome to my technical writing portfolio, showcasing comprehensive documentation skills and modern development practices. This sample demonstrates my ability to create professional-grade technical content that serves both developers and business users effectively.
+**Technical Writer & Documentation Engineer**
 
-## About This Portfolio
+I create documentation that bridges the gap between complex technology and user success. This portfolio showcases my expertise in modern documentation platforms, interactive content creation, and user-centered design.
 
-This documentation represents my expertise in creating clear, comprehensive technical content that bridges the gap between complex technical concepts and user needs. Built with modern tools and following industry best practices, it showcases my ability to create documentation that truly serves its audience.
+## 🎯 **What Makes Me Different**
 
-### What This Portfolio Demonstrates
+### **🧠 Visual Problem Solver**
+I don't just write documentation—I create interactive experiences that make complex concepts accessible through:
+- **ReactFlow visualizations** for workflow mapping
+- **Custom mind maps** for concept breakdown
+- **Interactive examples** that users can actually use
 
-- **🎨 Modern Design**: Professional, responsive design that works across all devices
-- **⚡ Performance**: Optimized for fast loading and smooth user experience
-- **🔍 User Experience**: Intuitive navigation and information architecture
-- **📱 Accessibility**: Mobile-first design with accessibility best practices
-- **🌙 Dark Mode**: Comprehensive theming for different user preferences
-- **📚 Content Strategy**: Well-organized information hierarchy and content structure
-- **🔧 Technical Skills**: Proficiency with modern documentation tools and workflows
+### **🚀 Modern Technical Stack**
+Built with cutting-edge tools that demonstrate real-world skills:
+- **Docusaurus** + **React** + **TypeScript**
+- **Git workflows** and **CI/CD** integration
+- **Responsive design** and **accessibility** best practices
 
-## My Technical Writing Approach
+### **📊 User-Centered Approach**
+Every piece of content is designed around actual user needs:
+- **Research-driven** content strategy
+- **Progressive disclosure** for different skill levels
+- **Multiple content formats** for diverse audiences
 
-### Content Strategy
+## ⭐ **Featured Work**
 
-- **User-Centered Design**: Content structured around user needs and workflows
-- **Clear Information Architecture**: Logical organization that makes information discoverable
-- **Progressive Disclosure**: Information presented at appropriate levels of detail
-- **Consistent Voice**: Professional yet approachable tone throughout
+### **🌟 [Interactive Workflow Mind Map](examples/interactive-mindmap)**
+ReactFlow-powered visualization showing complete documentation workflow from requirements to delivery.
 
-### Technical Excellence
+### **📋 [Process Documentation](examples/process-documentation)**
+Comprehensive 6-month technical writer onboarding process with roles, timelines, and deliverables.
 
-- **Modern Tools**: Expertise with Docusaurus, Markdown, Git, and modern documentation platforms
-- **Code Documentation**: Comprehensive API references with working examples
-- **Interactive Elements**: Engaging content with code tabs, callouts, and visual aids
-- **Quality Assurance**: Thorough testing and validation of all content and examples
+### **💡 [AI in Technical Documentation](examples/technical-article)**
+Industry trend analysis exploring how AI transforms technical writing workflows.
 
-## Portfolio Highlights
+:::tip **Explore My Portfolio**
 
-This documentation showcases my ability to create comprehensive technical content across multiple domains:
-
-1. **API Documentation**: Complete reference with authentication, endpoints, and error handling
-2. **User Guides**: Step-by-step tutorials and best practices
-3. **Interactive Examples**: Working code samples in multiple programming languages
-4. **Blog Content**: Technical articles demonstrating different writing styles
-5. **Information Architecture**: Well-organized content structure and navigation
-
-:::tip Explore My Work
-
-Browse through the different sections to see examples of my technical writing across various content types and complexity levels.
+Start with the [Portfolio Showcase](portfolio-showcase) to see my best work, or dive into specific [Writing Samples](examples/process-documentation) to see detailed examples.
 
 :::
-
-## Portfolio Sections
-
-- 📖 [Getting Started](getting-started/installation) - Installation and setup documentation
-- 🚀 [Quick Start Guide](getting-started/quick-start) - User onboarding and tutorials
-- ⚙️ [Configuration](getting-started/configuration) - Technical configuration guides
-- 📚 [API Reference](api/overview) - Comprehensive API documentation
-- 🎯 [Best Practices](guides/best-practices) - Technical writing best practices
-- 💡 [Examples](examples/basic-usage) - Interactive code examples and use cases
 
 ## Contact & Collaboration
 
