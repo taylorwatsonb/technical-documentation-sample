@@ -87,7 +87,7 @@ const config: Config = {
           position: 'left',
           label: 'Portfolio',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
+        {href: 'https://technical-writer-taylorw.vercel.app/', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/taylorwatsonb/technical-documentation-sample',
           label: 'GitHub',
@@ -137,7 +137,7 @@ const config: Config = {
           items: [
             {
               label: 'Blog',
-              to: '/blog',
+              href: 'https://technical-writer-taylorw.vercel.app/',
             },
             {
               label: 'GitHub',
