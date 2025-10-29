@@ -54,6 +54,8 @@ const sidebars: SidebarsConfig = {
             'examples/real-world-scenarios',
             'examples/process-documentation',
             'examples/technical-article',
+            'examples/api-design-mindmap',
+            'examples/technical-writing-mindmap',
           ],
         },
     'changelog',

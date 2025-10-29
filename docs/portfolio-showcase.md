@@ -64,6 +64,19 @@ Engaging long-form content that explains complex concepts and industry trends.
 - Industry knowledge application
 - Thought leadership content
 
+### 🧠 **Visual Mind Maps**
+Interactive diagrams that break down complex technical concepts into digestible visual formats.
+
+**Samples**: 
+- [API Design Mind Map](examples/api-design-mindmap) - REST/GraphQL best practices
+- [Technical Writing Process](examples/technical-writing-mindmap) - Complete workflow visualization
+
+**Key Skills Demonstrated**:
+- Visual thinking and design
+- Complex concept simplification
+- Interactive documentation creation
+- Creative problem-solving approach
+
 ### 🛠️ **Troubleshooting Guides**
 Problem-solving documentation that helps users resolve issues independently.
 
