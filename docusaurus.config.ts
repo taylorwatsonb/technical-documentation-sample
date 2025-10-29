@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'TechDocs Pro',
-  tagline: 'Modern Documentation Platform for AI & Enterprise',
+  title: 'Taylor Watson - Technical Writing Portfolio',
+  tagline: 'Professional Technical Documentation & Developer Experience',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -75,9 +75,9 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'TechDocs Pro',
+      title: 'Taylor Watson',
       logo: {
-        alt: 'TechDocs Pro Logo',
+        alt: 'Taylor Watson - Technical Writer',
         src: 'img/logo.svg',
       },
       items: [
@@ -85,7 +85,7 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Documentation',
+          label: 'Portfolio',
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
@@ -99,36 +99,36 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Documentation',
+          title: 'Portfolio',
           items: [
             {
-              label: 'Getting Started',
+              label: 'Overview',
               to: '/docs/intro',
             },
             {
-              label: 'API Reference',
+              label: 'API Documentation',
               to: '/docs/api/overview',
             },
             {
-              label: 'Guides',
+              label: 'User Guides',
               to: '/docs/guides/quick-start',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Connect',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/techdocs-pro',
+              label: 'LinkedIn',
+              href: 'https://linkedin.com/in/taylorwatsonb',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/techdocs-pro',
+              label: 'GitHub',
+              href: 'https://github.com/taylorwatsonb',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/techdocspro',
+              label: 'Email',
+              href: 'mailto:taylor@example.com',
             },
           ],
         },
@@ -150,7 +150,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} TechDocs Pro. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Taylor Watson. Technical Writing Portfolio.`,
     },
     prism: {
       theme: prismThemes.github,

@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# TechDocs Pro - Sample Documentation
+# Taylor Watson - Technical Writing Portfolio
 
-This is a comprehensive sample documentation project built with [Docusaurus](https://docusaurus.io/) to demonstrate professional technical writing capabilities and modern documentation practices.
+This is my technical writing portfolio built with [Docusaurus](https://docusaurus.io/) to showcase professional documentation skills, modern development practices, and comprehensive technical writing capabilities.
 
 ## 🚀 What This Project Demonstrates
 
