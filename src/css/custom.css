@@ -3,6 +3,8 @@
  * Professional styling for technical documentation
  */
 
+@import './mindmap.css';
+
 /* Color Palette - Modern Purple/Indigo Theme */
 :root {
   --ifm-color-primary: #7c3aed;
