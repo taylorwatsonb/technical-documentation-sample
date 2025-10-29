@@ -22,8 +22,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'techdocs-pro', // Usually your GitHub org/user name.
-  projectName: 'sample-docs', // Usually your repo name.
+  organizationName: 'taylorwatsonb', // Usually your GitHub org/user name.
+  projectName: 'technical-documentation-sample', // Usually your repo name.
 
   onBrokenLinks: 'warn',
 
@@ -44,7 +44,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/techdocs-pro/sample-docs/tree/main/',
+            'https://github.com/taylorwatsonb/technical-documentation-sample/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -55,7 +55,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/techdocs-pro/sample-docs/tree/main/',
+            'https://github.com/taylorwatsonb/technical-documentation-sample/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -89,7 +89,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/techdocs-pro/sample-docs',
+          href: 'https://github.com/taylorwatsonb/technical-documentation-sample',
           label: 'GitHub',
           position: 'right',
         },
@@ -141,7 +141,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/techdocs-pro/sample-docs',
+              href: 'https://github.com/taylorwatsonb/technical-documentation-sample',
             },
             {
               label: 'Changelog',
