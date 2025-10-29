@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'TechDocs Pro',
-  tagline: 'Professional Technical Documentation Platform',
+  tagline: 'Modern Documentation Platform for AI & Enterprise',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
