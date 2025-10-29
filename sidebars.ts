@@ -15,6 +15,7 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
 const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     'intro',
+    'portfolio-showcase',
     {
       type: 'category',
       label: 'Getting Started',
@@ -44,15 +45,17 @@ const sidebars: SidebarsConfig = {
         'guides/best-practices',
       ],
     },
-    {
-      type: 'category',
-      label: 'Examples',
-      items: [
-        'examples/basic-usage',
-        'examples/advanced-integration',
-        'examples/real-world-scenarios',
-      ],
-    },
+        {
+          type: 'category',
+          label: 'Writing Samples',
+          items: [
+            'examples/basic-usage',
+            'examples/advanced-integration',
+            'examples/real-world-scenarios',
+            'examples/process-documentation',
+            'examples/technical-article',
+          ],
+        },
     'changelog',
   ],
 };
