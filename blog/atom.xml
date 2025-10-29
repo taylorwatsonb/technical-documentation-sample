@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://techdocs-pro.example.com/blog</id>
+    <title>TechDocs Pro Blog</title>
+    <updated>2023-12-15T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://techdocs-pro.example.com/blog"/>
+    <subtitle>TechDocs Pro Blog</subtitle>
+    <icon>https://techdocs-pro.example.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10 Essential Best Practices for Technical Writing]]></title>
+        <id>https://techdocs-pro.example.com/blog/technical-writing-best-practices</id>
+        <link href="https://techdocs-pro.example.com/blog/technical-writing-best-practices"/>
+        <updated>2023-12-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Technical writing is both an art and a science. It requires clarity, precision, and empathy for your readers. Whether you're documenting APIs, creating user guides, or writing tutorials, these best practices will help you create documentation that truly serves your users.]]></summary>
+        <content type="html"><![CDATA[<p>Technical writing is both an art and a science. It requires clarity, precision, and empathy for your readers. Whether you're documenting APIs, creating user guides, or writing tutorials, these best practices will help you create documentation that truly serves your users.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-know-your-audience">1. Know Your Audience<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#1-know-your-audience" class="hash-link" aria-label="Direct link to 1. Know Your Audience" title="Direct link to 1. Know Your Audience" translate="no">​</a></h2>
+<p>Before you write a single word, understand who will be reading your documentation. Are they:</p>
+<ul>
+<li class=""><strong>Beginners</strong> who need step-by-step guidance?</li>
+<li class=""><strong>Experienced developers</strong> who want quick reference material?</li>
+<li class=""><strong>End users</strong> who need to accomplish specific tasks?</li>
+<li class=""><strong>System administrators</strong> who need troubleshooting information?</li>
+</ul>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>Audience Analysis</div><div class="admonitionContent_BuS1"><p>Create user personas for your documentation. This helps you write with specific readers in mind rather than trying to please everyone.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-use-clear-concise-language">2. Use Clear, Concise Language<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#2-use-clear-concise-language" class="hash-link" aria-label="Direct link to 2. Use Clear, Concise Language" title="Direct link to 2. Use Clear, Concise Language" translate="no">​</a></h2>
+<p>Technical writing should be clear and direct. Avoid:</p>
+<ul>
+<li class=""><strong>Jargon</strong> without explanation</li>
+<li class=""><strong>Passive voice</strong> when active voice is clearer</li>
+<li class=""><strong>Unnecessary words</strong> that don't add value</li>
+<li class=""><strong>Complex sentences</strong> that could be simplified</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="before-unclear">Before (Unclear)<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#before-unclear" class="hash-link" aria-label="Direct link to Before (Unclear)" title="Direct link to Before (Unclear)" translate="no">​</a></h3>
+<blockquote>
+<p>"The implementation of the authentication mechanism should be performed in accordance with the established security protocols that have been previously defined."</p>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="after-clear">After (Clear)<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#after-clear" class="hash-link" aria-label="Direct link to After (Clear)" title="Direct link to After (Clear)" translate="no">​</a></h3>
+<blockquote>
+<p>"Implement authentication using the security protocols we defined earlier."</p>
+</blockquote>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-structure-your-content-logically">3. Structure Your Content Logically<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#3-structure-your-content-logically" class="hash-link" aria-label="Direct link to 3. Structure Your Content Logically" title="Direct link to 3. Structure Your Content Logically" translate="no">​</a></h2>
+<p>Good structure makes documentation scannable and navigable:</p>
+<ul>
+<li class=""><strong>Start with an overview</strong> of what users will learn</li>
+<li class=""><strong>Use descriptive headings</strong> that clearly indicate content</li>
+<li class=""><strong>Group related information</strong> together</li>
+<li class=""><strong>Provide clear navigation</strong> between sections</li>
+</ul>
+<div class="language-markdown codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-markdown codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token title important punctuation" style="color:#393A34">#</span><span class="token title important"> Getting Started</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token title important punctuation" style="color:#393A34">##</span><span class="token title important"> Prerequisites</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token title important punctuation" style="color:#393A34">##</span><span class="token title important"> Installation</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token title important punctuation" style="color:#393A34">##</span><span class="token title important"> Configuration</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token title important punctuation" style="color:#393A34">##</span><span class="token title important"> Next Steps</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token title important punctuation" style="color:#393A34">#</span><span class="token title important"> API Reference</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token title important punctuation" style="color:#393A34">##</span><span class="token title important"> Authentication</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token title important punctuation" style="color:#393A34">##</span><span class="token title important"> Endpoints</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token title important punctuation" style="color:#393A34">##</span><span class="token title important"> Error Handling</span><br></span></code></pre></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-write-actionable-instructions">4. Write Actionable Instructions<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#4-write-actionable-instructions" class="hash-link" aria-label="Direct link to 4. Write Actionable Instructions" title="Direct link to 4. Write Actionable Instructions" translate="no">​</a></h2>
+<p>When providing instructions, make them actionable and specific:</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="good-example">Good Example<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#good-example" class="hash-link" aria-label="Direct link to Good Example" title="Direct link to Good Example" translate="no">​</a></h3>
+<blockquote>
+<ol>
+<li class="">Open the Settings menu</li>
+<li class="">Click "API Keys"</li>
+<li class="">Enter your API key in the "Key" field</li>
+<li class="">Click "Save"</li>
+</ol>
+</blockquote>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="poor-example">Poor Example<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#poor-example" class="hash-link" aria-label="Direct link to Poor Example" title="Direct link to Poor Example" translate="no">​</a></h3>
+<blockquote>
+<p>"Configure the API key in the appropriate settings section."</p>
+</blockquote>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-include-code-examples">5. Include Code Examples<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#5-include-code-examples" class="hash-link" aria-label="Direct link to 5. Include Code Examples" title="Direct link to 5. Include Code Examples" translate="no">​</a></h2>
+<p>Code examples are essential for technical documentation. Follow these guidelines:</p>
+<ul>
+<li class=""><strong>Show complete, runnable examples</strong></li>
+<li class=""><strong>Explain what each example does</strong></li>
+<li class=""><strong>Include expected output</strong></li>
+<li class=""><strong>Test all examples before publishing</strong></li>
+</ul>
+<div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token comment" style="color:#999988;font-style:italic">// Example: Creating a new user</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">const</span><span class="token plain"> user </span><span class="token operator" style="color:#393A34">=</span><span class="token plain"> </span><span class="token keyword control-flow" style="color:#00009f">await</span><span class="token plain"> api</span><span class="token punctuation" style="color:#393A34">.</span><span class="token property-access">users</span><span class="token punctuation" style="color:#393A34">.</span><span class="token method function property-access" style="color:#d73a49">create</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">name</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'John Doe'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">email</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'john@example.com'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token literal-property property" style="color:#36acaa">role</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'admin'</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token console class-name">console</span><span class="token punctuation" style="color:#393A34">.</span><span class="token method function property-access" style="color:#d73a49">log</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'User created:'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"> user</span><span class="token punctuation" style="color:#393A34">.</span><span class="token property-access">id</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token comment" style="color:#999988;font-style:italic">// Expected output: User created: user_123456789</span><br></span></code></pre></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-anticipate-and-answer-questions">6. Anticipate and Answer Questions<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#6-anticipate-and-answer-questions" class="hash-link" aria-label="Direct link to 6. Anticipate and Answer Questions" title="Direct link to 6. Anticipate and Answer Questions" translate="no">​</a></h2>
+<p>Think about what questions users might have:</p>
+<ul>
+<li class=""><strong>"What if this doesn't work?"</strong> → Include troubleshooting steps</li>
+<li class=""><strong>"Can I do this differently?"</strong> → Show alternative approaches</li>
+<li class=""><strong>"What are the limitations?"</strong> → Document constraints and requirements</li>
+<li class=""><strong>"What's next?"</strong> → Provide clear next steps</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="7-use-visual-elements-effectively">7. Use Visual Elements Effectively<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#7-use-visual-elements-effectively" class="hash-link" aria-label="Direct link to 7. Use Visual Elements Effectively" title="Direct link to 7. Use Visual Elements Effectively" translate="no">​</a></h2>
+<p>Visual elements can significantly improve comprehension:</p>
+<ul>
+<li class=""><strong>Screenshots</strong> for UI-based instructions</li>
+<li class=""><strong>Diagrams</strong> for complex processes</li>
+<li class=""><strong>Tables</strong> for structured data</li>
+<li class=""><strong>Callouts</strong> for important information</li>
+</ul>
+<div class="theme-admonition theme-admonition-warning admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>Screenshot Guidelines</div><div class="admonitionContent_BuS1"><p>Keep screenshots up-to-date and ensure they're clear and readable. Include captions that explain what users should see.</p></div></div>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="8-make-it-searchable">8. Make It Searchable<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#8-make-it-searchable" class="hash-link" aria-label="Direct link to 8. Make It Searchable" title="Direct link to 8. Make It Searchable" translate="no">​</a></h2>
+<p>Help users find information quickly:</p>
+<ul>
+<li class=""><strong>Use descriptive headings</strong> that match search terms</li>
+<li class=""><strong>Include keywords</strong> naturally in your content</li>
+<li class=""><strong>Create a comprehensive index</strong> or table of contents</li>
+<li class=""><strong>Use consistent terminology</strong> throughout</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="9-test-your-documentation">9. Test Your Documentation<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#9-test-your-documentation" class="hash-link" aria-label="Direct link to 9. Test Your Documentation" title="Direct link to 9. Test Your Documentation" translate="no">​</a></h2>
+<p>Before publishing, test your documentation:</p>
+<ul>
+<li class=""><strong>Follow your own instructions</strong> step by step</li>
+<li class=""><strong>Have others test</strong> your documentation</li>
+<li class=""><strong>Check all links</strong> and code examples</li>
+<li class=""><strong>Verify accuracy</strong> of all information</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="10-keep-it-updated">10. Keep It Updated<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#10-keep-it-updated" class="hash-link" aria-label="Direct link to 10. Keep It Updated" title="Direct link to 10. Keep It Updated" translate="no">​</a></h2>
+<p>Documentation is a living resource that needs regular maintenance:</p>
+<ul>
+<li class=""><strong>Review regularly</strong> for accuracy and relevance</li>
+<li class=""><strong>Update when products change</strong></li>
+<li class=""><strong>Remove outdated information</strong></li>
+<li class=""><strong>Gather and act on user feedback</strong></li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="bonus-common-mistakes-to-avoid">Bonus: Common Mistakes to Avoid<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#bonus-common-mistakes-to-avoid" class="hash-link" aria-label="Direct link to Bonus: Common Mistakes to Avoid" title="Direct link to Bonus: Common Mistakes to Avoid" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-assuming-prior-knowledge">1. Assuming Prior Knowledge<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#1-assuming-prior-knowledge" class="hash-link" aria-label="Direct link to 1. Assuming Prior Knowledge" title="Direct link to 1. Assuming Prior Knowledge" translate="no">​</a></h3>
+<p>Don't assume readers know what you know. Explain concepts and provide context.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-writing-for-yourself">2. Writing for Yourself<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#2-writing-for-yourself" class="hash-link" aria-label="Direct link to 2. Writing for Yourself" title="Direct link to 2. Writing for Yourself" translate="no">​</a></h3>
+<p>Write for your users, not to impress your colleagues or managers.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-ignoring-feedback">3. Ignoring Feedback<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#3-ignoring-feedback" class="hash-link" aria-label="Direct link to 3. Ignoring Feedback" title="Direct link to 3. Ignoring Feedback" translate="no">​</a></h3>
+<p>User feedback is invaluable. Listen to it and act on it.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-one-size-fits-all-approach">4. One-Size-Fits-All Approach<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#4-one-size-fits-all-approach" class="hash-link" aria-label="Direct link to 4. One-Size-Fits-All Approach" title="Direct link to 4. One-Size-Fits-All Approach" translate="no">​</a></h3>
+<p>Different types of content require different approaches. A quick reference guide should be different from a comprehensive tutorial.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-neglecting-the-user-experience">5. Neglecting the User Experience<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#5-neglecting-the-user-experience" class="hash-link" aria-label="Direct link to 5. Neglecting the User Experience" title="Direct link to 5. Neglecting the User Experience" translate="no">​</a></h3>
+<p>Good documentation is not just about content—it's about the entire user experience, from finding information to applying it.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="tools-and-resources">Tools and Resources<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#tools-and-resources" class="hash-link" aria-label="Direct link to Tools and Resources" title="Direct link to Tools and Resources" translate="no">​</a></h2>
+<p>Here are some tools that can help improve your technical writing:</p>
+<ul>
+<li class=""><strong>Grammarly</strong> - Grammar and style checking</li>
+<li class=""><strong>Hemingway Editor</strong> - Readability analysis</li>
+<li class=""><strong>Markdown editors</strong> - Clean, distraction-free writing</li>
+<li class=""><strong>Version control</strong> - Track changes and collaborate</li>
+<li class=""><strong>User analytics</strong> - Understand how users interact with your docs</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="conclusion">Conclusion<a href="https://techdocs-pro.example.com/blog/technical-writing-best-practices#conclusion" class="hash-link" aria-label="Direct link to Conclusion" title="Direct link to Conclusion" translate="no">​</a></h2>
+<p>Great technical writing is about serving your users. By following these best practices, you'll create documentation that is not only accurate and complete but also accessible and useful.</p>
+<p>Remember: the goal is not to show off your technical knowledge, but to help others succeed with your product or service.</p>
+<hr>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Want to Learn More?</div><div class="admonitionContent_BuS1"><p>Check out our <a href="https://techdocs-pro.example.com/course" target="_blank" rel="noopener noreferrer" class="">Technical Writing Course</a> for in-depth training on creating exceptional documentation.</p></div></div>
+<hr>
+<p><em>What are your favorite technical writing tips? Share them with us on <a href="https://twitter.com/techdocspro" target="_blank" rel="noopener noreferrer" class="">Twitter</a> or <a href="https://discord.gg/techdocs-pro" target="_blank" rel="noopener noreferrer" class="">Discord</a>!</em></p>]]></content>
+        <author>
+            <name>Tech Writer</name>
+            <uri>https://github.com/techdocs-pro</uri>
+        </author>
+        <category label="best-practices" term="best-practices"/>
+        <category label="writing" term="writing"/>
+        <category label="documentation" term="documentation"/>
+        <category label="tips" term="tips"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to TechDocs Pro]]></title>
+        <id>https://techdocs-pro.example.com/blog/welcome</id>
+        <link href="https://techdocs-pro.example.com/blog/welcome"/>
+        <updated>2023-12-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're thrilled to introduce TechDocs Pro, a revolutionary platform designed to transform how teams create, manage, and deliver technical documentation. After months of development and testing, we're excited to share this powerful tool with the technical writing community.]]></summary>
+        <content type="html"><![CDATA[<p>We're thrilled to introduce <strong>TechDocs Pro</strong>, a revolutionary platform designed to transform how teams create, manage, and deliver technical documentation. After months of development and testing, we're excited to share this powerful tool with the technical writing community.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-we-built-techdocs-pro">Why We Built TechDocs Pro<a href="https://techdocs-pro.example.com/blog/welcome#why-we-built-techdocs-pro" class="hash-link" aria-label="Direct link to Why We Built TechDocs Pro" title="Direct link to Why We Built TechDocs Pro" translate="no">​</a></h2>
+<p>As technical writers ourselves, we've experienced the pain points that come with traditional documentation tools:</p>
+<ul>
+<li class=""><strong>Fragmented workflows</strong> that require multiple tools</li>
+<li class=""><strong>Poor collaboration</strong> features that slow down teams</li>
+<li class=""><strong>Outdated interfaces</strong> that don't match modern expectations</li>
+<li class=""><strong>Limited customization</strong> options for different use cases</li>
+</ul>
+<p>TechDocs Pro addresses these challenges head-on, providing a unified platform that combines powerful authoring tools, intelligent content management, and beautiful presentation.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-makes-techdocs-pro-different">What Makes TechDocs Pro Different<a href="https://techdocs-pro.example.com/blog/welcome#what-makes-techdocs-pro-different" class="hash-link" aria-label="Direct link to What Makes TechDocs Pro Different" title="Direct link to What Makes TechDocs Pro Different" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-beautiful-by-default">🎨 Beautiful by Default<a href="https://techdocs-pro.example.com/blog/welcome#-beautiful-by-default" class="hash-link" aria-label="Direct link to 🎨 Beautiful by Default" title="Direct link to 🎨 Beautiful by Default" translate="no">​</a></h3>
+<p>We believe documentation should be as beautiful as it is functional. TechDocs Pro comes with carefully crafted themes and layouts that make your content shine.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-lightning-fast">⚡ Lightning Fast<a href="https://techdocs-pro.example.com/blog/welcome#-lightning-fast" class="hash-link" aria-label="Direct link to ⚡ Lightning Fast" title="Direct link to ⚡ Lightning Fast" translate="no">​</a></h3>
+<p>Built with performance in mind, TechDocs Pro delivers sub-second page loads and smooth interactions, even with large documentation sets.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-built-for-collaboration">🤝 Built for Collaboration<a href="https://techdocs-pro.example.com/blog/welcome#-built-for-collaboration" class="hash-link" aria-label="Direct link to 🤝 Built for Collaboration" title="Direct link to 🤝 Built for Collaboration" translate="no">​</a></h3>
+<p>Real-time collaboration features allow multiple team members to work together seamlessly, with built-in conflict resolution and version control.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-highly-customizable">🔧 Highly Customizable<a href="https://techdocs-pro.example.com/blog/welcome#-highly-customizable" class="hash-link" aria-label="Direct link to 🔧 Highly Customizable" title="Direct link to 🔧 Highly Customizable" translate="no">​</a></h3>
+<p>From themes to functionality, TechDocs Pro adapts to your needs. Create the perfect documentation experience for your team and users.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="key-features">Key Features<a href="https://techdocs-pro.example.com/blog/welcome#key-features" class="hash-link" aria-label="Direct link to Key Features" title="Direct link to Key Features" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Modern Editor</strong>: Markdown-based editing with live preview and intelligent suggestions</li>
+<li class=""><strong>Version Control</strong>: Track changes, compare versions, and maintain documentation history</li>
+<li class=""><strong>Search</strong>: Full-text search with intelligent suggestions and filtering</li>
+<li class=""><strong>Analytics</strong>: Understand how users interact with your documentation</li>
+<li class=""><strong>API Integration</strong>: Seamlessly integrate with your existing development workflow</li>
+<li class=""><strong>Multi-language Support</strong>: Reach global audiences with built-in localization</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="getting-started">Getting Started<a href="https://techdocs-pro.example.com/blog/welcome#getting-started" class="hash-link" aria-label="Direct link to Getting Started" title="Direct link to Getting Started" translate="no">​</a></h2>
+<p>Ready to try TechDocs Pro? Here's how to get started:</p>
+<ol>
+<li class=""><strong>Sign up</strong> for a free account at <a href="https://app.techdocs-pro.com/" target="_blank" rel="noopener noreferrer" class="">app.techdocs-pro.com</a></li>
+<li class=""><strong>Create your first project</strong> using our guided setup</li>
+<li class=""><strong>Import existing documentation</strong> or start fresh</li>
+<li class=""><strong>Customize your site</strong> with themes and branding</li>
+<li class=""><strong>Deploy</strong> to your domain or use our hosting</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="community-and-support">Community and Support<a href="https://techdocs-pro.example.com/blog/welcome#community-and-support" class="hash-link" aria-label="Direct link to Community and Support" title="Direct link to Community and Support" translate="no">​</a></h2>
+<p>We're building more than just a product—we're building a community. Join us on:</p>
+<ul>
+<li class=""><strong>Discord</strong>: <a href="https://discord.gg/techdocs-pro" target="_blank" rel="noopener noreferrer" class="">discord.gg/techdocs-pro</a> - Real-time chat and support</li>
+<li class=""><strong>GitHub</strong>: <a href="https://github.com/techdocs-pro" target="_blank" rel="noopener noreferrer" class="">github.com/techdocs-pro</a> - Open source components and issues</li>
+<li class=""><strong>Twitter</strong>: <a href="https://twitter.com/techdocspro" target="_blank" rel="noopener noreferrer" class="">@techdocspro</a> - Updates and announcements</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="whats-next">What's Next<a href="https://techdocs-pro.example.com/blog/welcome#whats-next" class="hash-link" aria-label="Direct link to What's Next" title="Direct link to What's Next" translate="no">​</a></h2>
+<p>This is just the beginning. We have an exciting roadmap ahead:</p>
+<ul>
+<li class=""><strong>Q1 2024</strong>: Advanced collaboration features and team management</li>
+<li class=""><strong>Q2 2024</strong>: AI-powered content suggestions and automated testing</li>
+<li class=""><strong>Q3 2024</strong>: Enterprise features and advanced analytics</li>
+<li class=""><strong>Q4 2024</strong>: Mobile app and offline editing capabilities</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="thank-you">Thank You<a href="https://techdocs-pro.example.com/blog/welcome#thank-you" class="hash-link" aria-label="Direct link to Thank You" title="Direct link to Thank You" translate="no">​</a></h2>
+<p>Thank you to everyone who has supported us during development, from early beta testers to the open source community. Your feedback has been invaluable in shaping TechDocs Pro into the tool it is today.</p>
+<p>We're excited to see what you'll create with TechDocs Pro. Happy documenting!</p>
+<hr>
+<p><em>The TechDocs Pro Team</em></p>
+<hr>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Stay Updated</div><div class="admonitionContent_BuS1"><p>Subscribe to our newsletter to get the latest updates, tips, and feature announcements delivered to your inbox.</p></div></div>]]></content>
+        <author>
+            <name>Tech Writer</name>
+            <uri>https://github.com/techdocs-pro</uri>
+        </author>
+        <category label="announcement" term="announcement"/>
+        <category label="welcome" term="welcome"/>
+        <category label="documentation" term="documentation"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://techdocs-pro.example.com/blog/welcome</id>
+        <link href="https://techdocs-pro.example.com/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
+        <content type="html"><![CDATA[<p>We're thrilled to introduce <strong>TechDocs Pro</strong>, a revolutionary platform designed to transform how teams create, manage, and deliver technical documentation. After months of development and testing, we're excited to share this powerful tool with the technical writing community.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-we-built-techdocs-pro">Why We Built TechDocs Pro<a href="https://techdocs-pro.example.com/blog/welcome#why-we-built-techdocs-pro" class="hash-link" aria-label="Direct link to Why We Built TechDocs Pro" title="Direct link to Why We Built TechDocs Pro" translate="no">​</a></h2>
+<p>As technical writers ourselves, we've experienced the pain points that come with traditional documentation tools:</p>
+<ul>
+<li class=""><strong>Fragmented workflows</strong> that require multiple tools</li>
+<li class=""><strong>Poor collaboration</strong> features that slow down teams</li>
+<li class=""><strong>Outdated interfaces</strong> that don't match modern expectations</li>
+<li class=""><strong>Limited customization</strong> options for different use cases</li>
+</ul>
+<p>TechDocs Pro addresses these challenges head-on, providing a unified platform that combines powerful authoring tools, intelligent content management, and beautiful presentation.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-makes-techdocs-pro-different">What Makes TechDocs Pro Different<a href="https://techdocs-pro.example.com/blog/welcome#what-makes-techdocs-pro-different" class="hash-link" aria-label="Direct link to What Makes TechDocs Pro Different" title="Direct link to What Makes TechDocs Pro Different" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-beautiful-by-default">🎨 Beautiful by Default<a href="https://techdocs-pro.example.com/blog/welcome#-beautiful-by-default" class="hash-link" aria-label="Direct link to 🎨 Beautiful by Default" title="Direct link to 🎨 Beautiful by Default" translate="no">​</a></h3>
+<p>We believe documentation should be as beautiful as it is functional. TechDocs Pro comes with carefully crafted themes and layouts that make your content shine.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-lightning-fast">⚡ Lightning Fast<a href="https://techdocs-pro.example.com/blog/welcome#-lightning-fast" class="hash-link" aria-label="Direct link to ⚡ Lightning Fast" title="Direct link to ⚡ Lightning Fast" translate="no">​</a></h3>
+<p>Built with performance in mind, TechDocs Pro delivers sub-second page loads and smooth interactions, even with large documentation sets.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-built-for-collaboration">🤝 Built for Collaboration<a href="https://techdocs-pro.example.com/blog/welcome#-built-for-collaboration" class="hash-link" aria-label="Direct link to 🤝 Built for Collaboration" title="Direct link to 🤝 Built for Collaboration" translate="no">​</a></h3>
+<p>Real-time collaboration features allow multiple team members to work together seamlessly, with built-in conflict resolution and version control.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="-highly-customizable">🔧 Highly Customizable<a href="https://techdocs-pro.example.com/blog/welcome#-highly-customizable" class="hash-link" aria-label="Direct link to 🔧 Highly Customizable" title="Direct link to 🔧 Highly Customizable" translate="no">​</a></h3>
+<p>From themes to functionality, TechDocs Pro adapts to your needs. Create the perfect documentation experience for your team and users.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="key-features">Key Features<a href="https://techdocs-pro.example.com/blog/welcome#key-features" class="hash-link" aria-label="Direct link to Key Features" title="Direct link to Key Features" translate="no">​</a></h2>
+<ul>
+<li class=""><strong>Modern Editor</strong>: Markdown-based editing with live preview and intelligent suggestions</li>
+<li class=""><strong>Version Control</strong>: Track changes, compare versions, and maintain documentation history</li>
+<li class=""><strong>Search</strong>: Full-text search with intelligent suggestions and filtering</li>
+<li class=""><strong>Analytics</strong>: Understand how users interact with your documentation</li>
+<li class=""><strong>API Integration</strong>: Seamlessly integrate with your existing development workflow</li>
+<li class=""><strong>Multi-language Support</strong>: Reach global audiences with built-in localization</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="getting-started">Getting Started<a href="https://techdocs-pro.example.com/blog/welcome#getting-started" class="hash-link" aria-label="Direct link to Getting Started" title="Direct link to Getting Started" translate="no">​</a></h2>
+<p>Ready to try TechDocs Pro? Here's how to get started:</p>
+<ol>
+<li class=""><strong>Sign up</strong> for a free account at <a href="https://app.techdocs-pro.com/" target="_blank" rel="noopener noreferrer" class="">app.techdocs-pro.com</a></li>
+<li class=""><strong>Create your first project</strong> using our guided setup</li>
+<li class=""><strong>Import existing documentation</strong> or start fresh</li>
+<li class=""><strong>Customize your site</strong> with themes and branding</li>
+<li class=""><strong>Deploy</strong> to your domain or use our hosting</li>
+</ol>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="community-and-support">Community and Support<a href="https://techdocs-pro.example.com/blog/welcome#community-and-support" class="hash-link" aria-label="Direct link to Community and Support" title="Direct link to Community and Support" translate="no">​</a></h2>
+<p>We're building more than just a product—we're building a community. Join us on:</p>
+<ul>
+<li class=""><strong>Discord</strong>: <a href="https://discord.gg/techdocs-pro" target="_blank" rel="noopener noreferrer" class="">discord.gg/techdocs-pro</a> - Real-time chat and support</li>
+<li class=""><strong>GitHub</strong>: <a href="https://github.com/techdocs-pro" target="_blank" rel="noopener noreferrer" class="">github.com/techdocs-pro</a> - Open source components and issues</li>
+<li class=""><strong>Twitter</strong>: <a href="https://twitter.com/techdocspro" target="_blank" rel="noopener noreferrer" class="">@techdocspro</a> - Updates and announcements</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="whats-next">What's Next<a href="https://techdocs-pro.example.com/blog/welcome#whats-next" class="hash-link" aria-label="Direct link to What's Next" title="Direct link to What's Next" translate="no">​</a></h2>
+<p>This is just the beginning. We have an exciting roadmap ahead:</p>
+<ul>
+<li class=""><strong>Q1 2024</strong>: Advanced collaboration features and team management</li>
+<li class=""><strong>Q2 2024</strong>: AI-powered content suggestions and automated testing</li>
+<li class=""><strong>Q3 2024</strong>: Enterprise features and advanced analytics</li>
+<li class=""><strong>Q4 2024</strong>: Mobile app and offline editing capabilities</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="thank-you">Thank You<a href="https://techdocs-pro.example.com/blog/welcome#thank-you" class="hash-link" aria-label="Direct link to Thank You" title="Direct link to Thank You" translate="no">​</a></h2>
+<p>Thank you to everyone who has supported us during development, from early beta testers to the open source community. Your feedback has been invaluable in shaping TechDocs Pro into the tool it is today.</p>
+<p>We're excited to see what you'll create with TechDocs Pro. Happy documenting!</p>
+<hr>
+<p><em>The TechDocs Pro Team</em></p>
+<hr>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Stay Updated</div><div class="admonitionContent_BuS1"><p>Subscribe to our newsletter to get the latest updates, tips, and feature announcements delivered to your inbox.</p></div></div>]]></content>
+        <author>
+            <name>Sébastien Lorber</name>
+            <uri>https://sebastienlorber.com</uri>
+        </author>
+        <author>
+            <name>Yangshun Tay</name>
+            <uri>https://linkedin.com/in/yangshun</uri>
+        </author>
+        <category label="Facebook" term="Facebook"/>
+        <category label="Hello" term="Hello"/>
+        <category label="Docusaurus" term="Docusaurus"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MDX Blog Post]]></title>
+        <id>https://techdocs-pro.example.com/blog/mdx-blog-post</id>
+        <link href="https://techdocs-pro.example.com/blog/mdx-blog-post"/>
+        <updated>2021-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
+        <content type="html"><![CDATA[<p>Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target="_blank" rel="noopener noreferrer" class="">Docusaurus Markdown features</a>, such as <a href="https://mdxjs.com/" target="_blank" rel="noopener noreferrer" class="">MDX</a>.</p>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>tip</div><div class="admonitionContent_BuS1"><p>Use the power of React to create interactive blog posts.</p></div></div>
+<!-- -->
+<p>For example, use JSX to create an interactive button:</p>
+<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token operator" style="color:#393A34">&lt;</span><span class="token plain">button onClick</span><span class="token operator" style="color:#393A34">=</span><span class="token punctuation" style="color:#393A34">{</span><span class="token punctuation" style="color:#393A34">(</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token arrow operator" style="color:#393A34">=&gt;</span><span class="token plain"> </span><span class="token function" style="color:#d73a49">alert</span><span class="token punctuation" style="color:#393A34">(</span><span class="token string" style="color:#e3116c">'button clicked!'</span><span class="token punctuation" style="color:#393A34">)</span><span class="token punctuation" style="color:#393A34">}</span><span class="token operator" style="color:#393A34">&gt;</span><span class="token maybe-class-name">Click</span><span class="token plain"> me</span><span class="token operator" style="color:#393A34">!</span><span class="token operator" style="color:#393A34">&lt;</span><span class="token operator" style="color:#393A34">/</span><span class="token plain">button</span><span class="token operator" style="color:#393A34">&gt;</span><br></span></code></pre></div></div>
+<button>Click me!</button>]]></content>
+        <author>
+            <name>Sébastien Lorber</name>
+            <uri>https://sebastienlorber.com</uri>
+        </author>
+        <category label="Docusaurus" term="Docusaurus"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long Blog Post]]></title>
+        <id>https://techdocs-pro.example.com/blog/long-blog-post</id>
+        <link href="https://techdocs-pro.example.com/blog/long-blog-post"/>
+        <updated>2019-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
+        <content type="html"><![CDATA[<p>This is the summary of a very long blog post,</p>
+<p>Use a <code>&lt;!--</code> <code>truncate</code> <code>--&gt;</code> comment to limit blog post size in the list view.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <author>
+            <name>Yangshun Tay</name>
+            <uri>https://linkedin.com/in/yangshun</uri>
+        </author>
+        <category label="Hello" term="Hello"/>
+        <category label="Docusaurus" term="Docusaurus"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Blog Post]]></title>
+        <id>https://techdocs-pro.example.com/blog/first-blog-post</id>
+        <link href="https://techdocs-pro.example.com/blog/first-blog-post"/>
+        <updated>2019-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet...]]></summary>
+        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet...</p>
+<p>...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <author>
+            <name>Sébastien Lorber</name>
+            <uri>https://sebastienlorber.com</uri>
+        </author>
+        <author>
+            <name>Yangshun Tay</name>
+            <uri>https://linkedin.com/in/yangshun</uri>
+        </author>
+        <category label="Hola" term="Hola"/>
+        <category label="Docusaurus" term="Docusaurus"/>
+    </entry>
+</feed>
