@@ -33,6 +33,11 @@ Welcome to my technical writing portfolio! This curated collection demonstrates 
 - **Why it's special**: Forward-thinking perspective on industry evolution
 - **Skills highlighted**: Research, analysis, engaging narrative writing
 
+**🤖 [AI/ML Documentation Excellence](examples/ai-ml-documentation)** - Comprehensive AI documentation
+- **What it shows**: Complete documentation for LLMs, agent frameworks, and model APIs
+- **Why it's special**: Demonstrates cutting-edge AI/ML expertise with real code examples
+- **Skills highlighted**: AI/ML technical depth, multi-audience content, security best practices
+
 ## 🚀 **Core Competencies**
 
 <details>
@@ -73,24 +78,45 @@ Welcome to my technical writing portfolio! This curated collection demonstrates 
 
 </details>
 
-<details>
-<summary><strong>🎨 Visual Communication</strong> - Click to expand</summary>
+    <details>
+    <summary><strong>🎨 Visual Communication</strong> - Click to expand</summary>
 
-**Samples**: [Technical Writing Process](examples/technical-writing-mindmap) | [Interactive Mind Maps](examples/interactive-mindmap)
+    **Samples**: [Technical Writing Process](examples/technical-writing-mindmap) | [Interactive Mind Maps](examples/interactive-mindmap)
 
-**What I deliver**:
-- Interactive ReactFlow visualizations
-- Custom CSS-styled mind maps
-- Process flow diagrams
-- Complex concept simplification
+    **What I deliver**:
+    - Interactive ReactFlow visualizations
+    - Custom CSS-styled mind maps
+    - Process flow diagrams
+    - Complex concept simplification
 
-**Key Skills**:
-- Visual thinking and design
-- React/JavaScript development
-- Creative problem-solving
-- Modern web technologies
+    **Key Skills**:
+    - Visual thinking and design
+    - React/JavaScript development
+    - Creative problem-solving
+    - Modern web technologies
 
-</details>
+    </details>
+
+    <details>
+    <summary><strong>🤖 AI/ML Documentation</strong> - Click to expand</summary>
+
+    **Samples**: [AI/ML Documentation Excellence](examples/ai-ml-documentation) | [API Design Principles](examples/api-design-mindmap)
+
+    **What I deliver**:
+    - LLM integration guides with real code examples
+    - Agent framework documentation and architecture
+    - Model API references with error handling
+    - Multi-audience content (business, developers, data scientists)
+    - AI security and compliance documentation
+
+    **Key Skills**:
+    - Deep understanding of AI/ML technologies
+    - Prompt engineering and optimization
+    - Model evaluation and monitoring
+    - AI ethics and bias mitigation
+    - Modern AI tooling and frameworks
+
+    </details>
 
 ## 💡 **Why This Portfolio Works**
 

@@ -16,17 +16,18 @@ const sidebars: SidebarsConfig = {
   tutorialSidebar: [
     'intro',
     'portfolio-showcase',
-    {
-      type: 'category',
-      label: '🎯 Writing Samples',
-      items: [
-        'examples/process-documentation',
-        'examples/technical-article',
-        'examples/api-design-mindmap',
-        'examples/technical-writing-mindmap',
-        'examples/interactive-mindmap',
-      ],
-    },
+        {
+          type: 'category',
+          label: '🎯 Writing Samples',
+          items: [
+            'examples/process-documentation',
+            'examples/technical-article',
+            'examples/ai-ml-documentation',
+            'examples/api-design-mindmap',
+            'examples/technical-writing-mindmap',
+            'examples/interactive-mindmap',
+          ],
+        },
     {
       type: 'category',
       label: '📚 API Documentation',
