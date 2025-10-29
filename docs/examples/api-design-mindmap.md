@@ -16,80 +16,80 @@ This comprehensive mind map demonstrates my deep understanding of API design pri
 
 ## 🧠 **Interactive API Design Ecosystem**
 
-<div className="api-mindmap-container">
-  <div className="mindmap-center">
-    <div className="center-node">
-      <div className="node-icon">🚀</div>
-      <div className="node-title">API Design Principles</div>
-      <div className="node-subtitle">Modern • Scalable • User-Focused</div>
-      <div className="node-description">The foundation of exceptional API experiences</div>
+<div class="api-mindmap-container">
+  <div class="mindmap-center">
+    <div class="center-node">
+      <div class="node-icon">🚀</div>
+      <div class="node-title">API Design Principles</div>
+      <div class="node-subtitle">Modern • Scalable • User-Focused</div>
+      <div class="node-description">The foundation of exceptional API experiences</div>
     </div>
   </div>
   
-  <div className="mindmap-branches">
-    <div className="branch branch-1">
-      <div className="branch-header">
-        <div className="branch-icon">👥</div>
-        <div className="branch-title">User Experience</div>
-        <div className="branch-subtitle">Developer-First Design</div>
+  <div class="mindmap-branches">
+    <div class="branch branch-1">
+      <div class="branch-header">
+        <div class="branch-icon">👥</div>
+        <div class="branch-title">User Experience</div>
+        <div class="branch-subtitle">Developer-First Design</div>
       </div>
-      <div className="branch-items">
-        <div className="branch-item">
-          <div className="item-header">
-            <span className="item-icon">🎯</span>
-            <span className="item-text">Developer Onboarding</span>
+      <div class="branch-items">
+        <div class="branch-item">
+          <div class="item-header">
+            <span class="item-icon">🎯</span>
+            <span class="item-text">Developer Onboarding</span>
           </div>
-          <div className="sub-items">
-            <div className="sub-item">
-              <span className="sub-icon">📚</span>
+          <div class="sub-items">
+            <div class="sub-item">
+              <span class="sub-icon">📚</span>
               <span>Clear Documentation</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">🎮</span>
+            <div class="sub-item">
+              <span class="sub-icon">🎮</span>
               <span>Interactive Examples</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">⚡</span>
+            <div class="sub-item">
+              <span class="sub-icon">⚡</span>
               <span>Quick Start Guides</span>
             </div>
           </div>
         </div>
-        <div className="branch-item">
-          <div className="item-header">
-            <span className="item-icon">🧠</span>
-            <span className="item-text">Intuitive Design</span>
+        <div class="branch-item">
+          <div class="item-header">
+            <span class="item-icon">🧠</span>
+            <span class="item-text">Intuitive Design</span>
           </div>
-          <div className="sub-items">
-            <div className="sub-item">
-              <span className="sub-icon">🏷️</span>
+          <div class="sub-items">
+            <div class="sub-item">
+              <span class="sub-icon">🏷️</span>
               <span>Consistent Naming</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">🏗️</span>
+            <div class="sub-item">
+              <span class="sub-icon">🏗️</span>
               <span>Logical Structure</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">🔮</span>
+            <div class="sub-item">
+              <span class="sub-icon">🔮</span>
               <span>Predictable Patterns</span>
             </div>
           </div>
         </div>
-        <div className="branch-item">
-          <div className="item-header">
-            <span className="item-icon">⚠️</span>
-            <span className="item-text">Error Handling</span>
+        <div class="branch-item">
+          <div class="item-header">
+            <span class="item-icon">⚠️</span>
+            <span class="item-text">Error Handling</span>
           </div>
-          <div className="sub-items">
-            <div className="sub-item">
-              <span className="sub-icon">💬</span>
+          <div class="sub-items">
+            <div class="sub-item">
+              <span class="sub-icon">💬</span>
               <span>Meaningful Messages</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">📊</span>
+            <div class="sub-item">
+              <span class="sub-icon">📊</span>
               <span>Proper HTTP Status Codes</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">🎯</span>
+            <div class="sub-item">
+              <span class="sub-icon">🎯</span>
               <span>Actionable Guidance</span>
             </div>
           </div>
@@ -97,49 +97,49 @@ This comprehensive mind map demonstrates my deep understanding of API design pri
       </div>
     </div>
     
-    <div className="branch branch-2">
-      <div className="branch-header">
-        <div className="branch-icon">⚡</div>
-        <div className="branch-title">Performance</div>
-        <div className="branch-subtitle">Speed & Efficiency</div>
+    <div class="branch branch-2">
+      <div class="branch-header">
+        <div class="branch-icon">⚡</div>
+        <div class="branch-title">Performance</div>
+        <div class="branch-subtitle">Speed & Efficiency</div>
       </div>
-      <div className="branch-items">
-        <div className="branch-item">
-          <div className="item-header">
-            <span className="item-icon">🚀</span>
-            <span className="item-text">Response Optimization</span>
+      <div class="branch-items">
+        <div class="branch-item">
+          <div class="item-header">
+            <span class="item-icon">🚀</span>
+            <span class="item-text">Response Optimization</span>
           </div>
-          <div className="sub-items">
-            <div className="sub-item">
-              <span className="sub-icon">📄</span>
+          <div class="sub-items">
+            <div class="sub-item">
+              <span class="sub-icon">📄</span>
               <span>Pagination</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">🎯</span>
+            <div class="sub-item">
+              <span class="sub-icon">🎯</span>
               <span>Field Selection</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">💾</span>
+            <div class="sub-item">
+              <span class="sub-icon">💾</span>
               <span>Caching Strategies</span>
             </div>
           </div>
         </div>
-        <div className="branch-item">
-          <div className="item-header">
-            <span className="item-icon">🔄</span>
-            <span className="item-text">Request Efficiency</span>
+        <div class="branch-item">
+          <div class="item-header">
+            <span class="item-icon">🔄</span>
+            <span class="item-text">Request Efficiency</span>
           </div>
-          <div className="sub-items">
-            <div className="sub-item">
-              <span className="sub-icon">📦</span>
+          <div class="sub-items">
+            <div class="sub-item">
+              <span class="sub-icon">📦</span>
               <span>Batch Operations</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">🗜️</span>
+            <div class="sub-item">
+              <span class="sub-icon">🗜️</span>
               <span>Compression</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">🔗</span>
+            <div class="sub-item">
+              <span class="sub-icon">🔗</span>
               <span>Connection Pooling</span>
             </div>
           </div>
@@ -147,69 +147,69 @@ This comprehensive mind map demonstrates my deep understanding of API design pri
       </div>
     </div>
     
-    <div className="branch branch-3">
-      <div className="branch-header">
-        <div className="branch-icon">🔐</div>
-        <div className="branch-title">Security</div>
-        <div className="branch-subtitle">Protection & Trust</div>
+    <div class="branch branch-3">
+      <div class="branch-header">
+        <div class="branch-icon">🔐</div>
+        <div class="branch-title">Security</div>
+        <div class="branch-subtitle">Protection & Trust</div>
       </div>
-      <div className="branch-items">
-        <div className="branch-item">
-          <div className="item-header">
-            <span className="item-icon">🔑</span>
-            <span className="item-text">Authentication</span>
+      <div class="branch-items">
+        <div class="branch-item">
+          <div class="item-header">
+            <span class="item-icon">🔑</span>
+            <span class="item-text">Authentication</span>
           </div>
-          <div className="sub-items">
-            <div className="sub-item">
-              <span className="sub-icon">🔒</span>
+          <div class="sub-items">
+            <div class="sub-item">
+              <span class="sub-icon">🔒</span>
               <span>OAuth 2.0</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">🎫</span>
+            <div class="sub-item">
+              <span class="sub-icon">🎫</span>
               <span>JWT Tokens</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">🗝️</span>
+            <div class="sub-item">
+              <span class="sub-icon">🗝️</span>
               <span>API Keys</span>
             </div>
           </div>
         </div>
-        <div className="branch-item">
-          <div className="item-header">
-            <span className="item-icon">🛡️</span>
-            <span className="item-text">Authorization</span>
+        <div class="branch-item">
+          <div class="item-header">
+            <span class="item-icon">🛡️</span>
+            <span class="item-text">Authorization</span>
           </div>
-          <div className="sub-items">
-            <div className="sub-item">
-              <span className="sub-icon">👤</span>
+          <div class="sub-items">
+            <div class="sub-item">
+              <span class="sub-icon">👤</span>
               <span>Role-Based Access</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">🔐</span>
+            <div class="sub-item">
+              <span class="sub-icon">🔐</span>
               <span>Resource Permissions</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">🎯</span>
+            <div class="sub-item">
+              <span class="sub-icon">🎯</span>
               <span>Scope Management</span>
             </div>
           </div>
         </div>
-        <div className="branch-item">
-          <div className="item-header">
-            <span className="item-icon">🔒</span>
-            <span className="item-text">Data Protection</span>
+        <div class="branch-item">
+          <div class="item-header">
+            <span class="item-icon">🔒</span>
+            <span class="item-text">Data Protection</span>
           </div>
-          <div className="sub-items">
-            <div className="sub-item">
-              <span className="sub-icon">🔐</span>
+          <div class="sub-items">
+            <div class="sub-item">
+              <span class="sub-icon">🔐</span>
               <span>Encryption</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">✅</span>
+            <div class="sub-item">
+              <span class="sub-icon">✅</span>
               <span>Input Validation</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">⏱️</span>
+            <div class="sub-item">
+              <span class="sub-icon">⏱️</span>
               <span>Rate Limiting</span>
             </div>
           </div>
@@ -217,49 +217,49 @@ This comprehensive mind map demonstrates my deep understanding of API design pri
       </div>
     </div>
     
-    <div className="branch branch-4">
-      <div className="branch-header">
-        <div className="branch-icon">🏗️</div>
-        <div className="branch-title">Scalability</div>
-        <div className="branch-subtitle">Growth & Reliability</div>
+    <div class="branch branch-4">
+      <div class="branch-header">
+        <div class="branch-icon">🏗️</div>
+        <div class="branch-title">Scalability</div>
+        <div class="branch-subtitle">Growth & Reliability</div>
       </div>
-      <div className="branch-items">
-        <div className="branch-item">
-          <div className="item-header">
-            <span className="item-icon">🏛️</span>
-            <span className="item-text">Architecture</span>
+      <div class="branch-items">
+        <div class="branch-item">
+          <div class="item-header">
+            <span class="item-icon">🏛️</span>
+            <span class="item-text">Architecture</span>
           </div>
-          <div className="sub-items">
-            <div className="sub-item">
-              <span className="sub-icon">🔧</span>
+          <div class="sub-items">
+            <div class="sub-item">
+              <span class="sub-icon">🔧</span>
               <span>Microservices</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">⚖️</span>
+            <div class="sub-item">
+              <span class="sub-icon">⚖️</span>
               <span>Load Balancing</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">📈</span>
+            <div class="sub-item">
+              <span class="sub-icon">📈</span>
               <span>Horizontal Scaling</span>
             </div>
           </div>
         </div>
-        <div className="branch-item">
-          <div className="item-header">
-            <span className="item-icon">📊</span>
-            <span className="item-text">Monitoring</span>
+        <div class="branch-item">
+          <div class="item-header">
+            <span class="item-icon">📊</span>
+            <span class="item-text">Monitoring</span>
           </div>
-          <div className="sub-items">
-            <div className="sub-item">
-              <span className="sub-icon">📈</span>
+          <div class="sub-items">
+            <div class="sub-item">
+              <span class="sub-icon">📈</span>
               <span>Metrics Collection</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">❤️</span>
+            <div class="sub-item">
+              <span class="sub-icon">❤️</span>
               <span>Health Checks</span>
             </div>
-            <div className="sub-item">
-              <span className="sub-icon">🚨</span>
+            <div class="sub-item">
+              <span class="sub-icon">🚨</span>
               <span>Alerting Systems</span>
             </div>
           </div>
@@ -273,293 +273,132 @@ This comprehensive mind map demonstrates my deep understanding of API design pri
 
 ### REST API Design Patterns
 
-```mermaid
-mindmap
-  root((REST API<br/>Design))
-    Resource Design
-      Nouns Not Verbs
-        /users not /getUsers
-        /orders not /createOrder
-        /products not /fetchProducts
-      Hierarchical Structure
-        /users/{id}/orders
-        /products/{id}/reviews
-        /organizations/{id}/members
-      Plural Nouns
-        /users not /user
-        /products not /product
-        /orders not /order
-    HTTP Methods
-      GET
-        Retrieve Resources
-        Idempotent
-        Cacheable
-      POST
-        Create Resources
-        Non-idempotent
-        Request Body
-      PUT
-        Update/Replace
-        Idempotent
-        Complete Resource
-      PATCH
-        Partial Updates
-        Idempotent
-        Specific Fields
-      DELETE
-        Remove Resources
-        Idempotent
-        No Body
-    Status Codes
-      2xx Success
-        200 OK
-        201 Created
-        204 No Content
-      4xx Client Error
-        400 Bad Request
-        401 Unauthorized
-        404 Not Found
-      5xx Server Error
-        500 Internal Server Error
-        503 Service Unavailable
-```
+**🌐 REST API Design - Representational State Transfer**
+
+#### 📁 Resource Design
+- **Nouns Not Verbs**: ✅ `/users` ❌ `/getUsers`
+- **Hierarchical Structure**: `/users/{id}/orders`
+- **Plural Nouns**: ✅ `/users` ❌ `/user`
+
+#### 🔧 HTTP Methods
+- **GET**: Retrieve Resources (Idempotent, Cacheable)
+- **POST**: Create Resources (Non-idempotent, Request Body)
+- **PUT**: Update/Replace (Idempotent, Complete Resource)
+- **PATCH**: Partial Updates (Idempotent, Specific Fields)
+- **DELETE**: Remove Resources (Idempotent, No Body)
+
+#### 📊 Status Codes
+- **2xx Success**: 200 OK, 201 Created, 204 No Content
+- **4xx Client Error**: 400 Bad Request, 401 Unauthorized, 404 Not Found
+- **5xx Server Error**: 500 Internal Server Error, 503 Service Unavailable
 
 ### GraphQL Design Patterns
 
-```mermaid
-mindmap
-  root((GraphQL<br/>Design))
-    Schema Design
-      Type System
-        Scalars
-        Objects
-        Interfaces
-        Unions
-      Field Design
-        Nullable vs Non-null
-        Deprecation
-        Documentation
-      Query Design
-        Single Endpoint
-        Client-Specified Fields
-        Nested Queries
-    Operations
-      Queries
-        Read Operations
-        Optional Fields
-        Nested Data
-      Mutations
-        Write Operations
-        Input Types
-        Return Types
-      Subscriptions
-        Real-time Updates
-        WebSocket Connection
-        Event Streaming
-    Best Practices
-      Naming Conventions
-        camelCase Fields
-        PascalCase Types
-        SCREAMING_SNAKE_CASE Enums
-      Error Handling
-        GraphQL Errors
-        Custom Error Types
-        Field-Level Errors
-      Performance
-        Query Complexity
-        Depth Limiting
-        Caching Strategies
-```
+**🔮 GraphQL Design - Query Language for APIs**
+
+#### 🏗️ Schema Design
+- **Type System**: Scalars, Objects, Interfaces, Unions
+- **Field Design**: Nullable vs Non-null, Deprecation, Documentation
+- **Query Design**: Single Endpoint, Client-Specified Fields, Nested Queries
+
+#### ⚡ Operations
+- **Queries**: Read Operations (Optional Fields, Nested Data)
+- **Mutations**: Write Operations (Input Types, Return Types)
+- **Subscriptions**: Real-time Updates (WebSocket Connection, Event Streaming)
+
+#### ✨ Best Practices
+- **Naming Conventions**: camelCase Fields, PascalCase Types, SCREAMING_SNAKE_CASE Enums
+- **Error Handling**: GraphQL Errors, Custom Error Types, Field-Level Errors
+- **Performance**: Query Complexity, Depth Limiting, Caching Strategies
 
 ## 🎯 API Documentation Strategy
 
 ### Documentation Architecture
 
-```mermaid
-mindmap
-  root((API Documentation<br/>Strategy))
-    Content Types
-      Reference Docs
-        Endpoint Details
-        Request/Response Examples
-        Error Codes
-      Guides
-        Getting Started
-        Authentication
-        Common Use Cases
-      Tutorials
-        Step-by-Step Examples
-        Code Samples
-        Interactive Demos
-    User Journey
-      Discovery
-        API Overview
-        Use Cases
-        Pricing
-      Onboarding
-        Quick Start
-        Authentication Setup
-        First API Call
-      Integration
-        Detailed Guides
-        SDKs and Libraries
-        Testing Tools
-      Production
-        Monitoring
-        Troubleshooting
-        Best Practices
-    Tools & Platforms
-      Documentation Sites
-        Docusaurus
-        GitBook
-        Stoplight
-      Interactive Tools
-        API Explorer
-        Postman Collections
-        Code Generators
-      Version Control
-        Git Integration
-        Change Logs
-        Migration Guides
-```
+**📚 Content Types - Multi-format approach**
+
+#### Reference Docs
+- Endpoint Details
+- Request/Response Examples
+- Error Codes
+
+#### Guides
+- Getting Started
+- Authentication
+- Common Use Cases
+
+#### Tutorials
+- Step-by-Step Examples
+- Code Samples
+- Interactive Demos
+
+**🛤️ User Journey - Progressive learning path**
+
+1. **Discovery**: API Overview, Use Cases, Pricing
+2. **Onboarding**: Quick Start, Authentication Setup, First API Call
+3. **Integration**: Detailed Guides, SDKs and Libraries, Testing Tools
+4. **Production**: Monitoring, Troubleshooting, Best Practices
+
+**🛠️ Tools & Platforms - Modern documentation stack**
+
+- **Documentation Sites**: Docusaurus, GitBook, Stoplight
+- **Interactive Tools**: API Explorer, Postman Collections, Code Generators
+- **Version Control**: Git Integration, Change Logs, Migration Guides
 
 ## 🔧 Implementation Best Practices
 
 ### Code Quality & Standards
 
-```mermaid
-mindmap
-  root((Implementation<br/>Best Practices))
-    Code Standards
-      Consistency
-        Naming Conventions
-        Response Formats
-        Error Structures
-      Documentation
-        Inline Comments
-        OpenAPI Specs
-        README Files
-      Testing
-        Unit Tests
-        Integration Tests
-        Load Testing
-    Versioning Strategy
-      URL Versioning
-        /v1/users
-        /v2/users
-        Backward Compatibility
-      Header Versioning
-        Accept: application/vnd.api+json;version=1
-        Custom Headers
-      Query Parameter
-        ?version=1
-        ?api-version=2023-01-01
-    Monitoring & Analytics
-      Metrics
-        Request Volume
-        Response Times
-        Error Rates
-      Logging
-        Request Logs
-        Error Tracking
-        Performance Data
-      Alerting
-        Threshold Monitoring
-        Anomaly Detection
-        Incident Response
-```
+**📝 Code Standards - Quality & consistency**
+
+#### Consistency
+- Naming Conventions
+- Response Formats
+- Error Structures
+
+#### Documentation
+- Inline Comments
+- OpenAPI Specs
+- README Files
+
+#### Testing
+- Unit Tests
+- Integration Tests
+- Load Testing
+
+**🔄 Versioning Strategy - API evolution management**
+
+- **URL Versioning**: `/v1/users`, `/v2/users` (Backward Compatibility)
+- **Header Versioning**: `Accept: application/vnd.api+json;version=1` (Custom Headers)
+- **Query Parameter**: `?version=1`, `?api-version=2023-01-01`
+
+**📊 Monitoring & Analytics - Observability & insights**
+
+- **Metrics**: Request Volume, Response Times, Error Rates
+- **Logging**: Request Logs, Error Tracking, Performance Data
+- **Alerting**: Threshold Monitoring, Anomaly Detection, Incident Response
 
 ## 🌐 Industry Standards & Compliance
 
 ### API Standards Ecosystem
 
-```mermaid
-mindmap
-  root((API Standards<br/>& Compliance))
-    Open Standards
-      OpenAPI Specification
-        Swagger 2.0
-        OpenAPI 3.0
-        OpenAPI 3.1
-      JSON:API
-        Standard Format
-        Relationships
-        Error Handling
-      GraphQL Specification
-        Schema Definition
-        Query Language
-        Execution Engine
-    Security Standards
-      OAuth 2.0
-        Authorization Code
-        Client Credentials
-        Refresh Tokens
-      JWT (JSON Web Tokens)
-        Header
-        Payload
-        Signature
-      CORS (Cross-Origin Resource Sharing)
-        Headers
-        Preflight Requests
-        Credentials
-    Compliance
-      GDPR
-        Data Protection
-        User Consent
-        Right to Erasure
-      HIPAA
-        Healthcare Data
-        Encryption Requirements
-        Audit Logging
-      SOC 2
-        Security Controls
-        Availability
-        Processing Integrity
-```
+**🌍 Open Standards - Industry specifications**
 
-## 🚀 Future Trends & Innovation
+- **OpenAPI Specification**: Swagger 2.0, OpenAPI 3.0, OpenAPI 3.1
+- **JSON:API**: Standard Format, Relationships, Error Handling
+- **GraphQL Specification**: Schema Definition, Query Language, Execution Engine
 
-### Emerging API Technologies
+**🔒 Security Standards - Authentication & authorization**
 
-```mermaid
-mindmap
-  root((Future API<br/>Trends))
-    Modern Protocols
-      gRPC
-        Protocol Buffers
-        HTTP/2
-        Streaming
-      WebSockets
-        Real-time Communication
-        Bidirectional
-        Low Latency
-      Server-Sent Events
-        One-way Streaming
-        Browser Support
-        Automatic Reconnection
-    AI Integration
-      Natural Language APIs
-        OpenAI GPT
-        Google Bard
-        Anthropic Claude
-      Machine Learning APIs
-        TensorFlow Serving
-        PyTorch Models
-        Custom ML Pipelines
-      Intelligent Documentation
-        Auto-generated Docs
-        Smart Search
-        Contextual Help
-    Edge Computing
-      CDN Integration
-        CloudFlare Workers
-        AWS Lambda@Edge
-        Fastly Compute
-      Edge APIs
-        Reduced Latency
-        Geographic Distribution
-        Offline Capabilities
-```
+- **OAuth 2.0**: Authorization Code, Client Credentials, Refresh Tokens
+- **JWT (JSON Web Tokens)**: Header, Payload, Signature
+- **CORS (Cross-Origin Resource Sharing)**: Headers, Preflight Requests, Credentials
+
+**⚖️ Compliance - Regulatory requirements**
+
+- **GDPR**: Data Protection, User Consent, Right to Erasure
+- **HIPAA**: Healthcare Data, Encryption Requirements, Audit Logging
+- **SOC 2**: Security Controls, Availability, Processing Integrity
 
 ## 📊 Visual Learning Benefits
 
