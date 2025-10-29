@@ -1,48 +1,39 @@
-import type {ReactNode} from 'react';
+import React from 'react';
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 
-type FeatureItem = {
-  title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
-  description: ReactNode;
-};
-
-const FeatureList: FeatureItem[] = [
+const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: '🧠 Visual Problem Solver',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        I don't just write documentation—I create interactive experiences that make complex concepts accessible through ReactFlow visualizations, custom mind maps, and interactive examples that users can actually use.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '🚀 Modern Technical Stack',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Built with cutting-edge tools that demonstrate real-world skills: Docusaurus + React + TypeScript, Git workflows and CI/CD integration, responsive design and accessibility best practices.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '📊 User-Centered Approach',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Every piece of content is designed around actual user needs: Research-driven content strategy, progressive disclosure for different skill levels, multiple content formats for diverse audiences.
       </>
     ),
   },
 ];
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -56,7 +47,7 @@ function Feature({title, Svg, description}: FeatureItem) {
   );
 }
 
-export default function HomepageFeatures(): ReactNode {
+export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
